@@ -1,0 +1,4 @@
+admin	admin	A
+Raul	123	C
+Samir	1234	C
+Samuel	12345	C

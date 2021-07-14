@@ -1,0 +1,11 @@
+P001	Fundas para equipo de pesca	25.70	50
+P002	Bote de pesca	200.50	57
+P003	Anzuelos	5.50	50
+P004	Contrapesos	10.50	50
+P005	Boyas	52.0	50
+P006	Red de pesca	30.20	50
+P007	Wader respirable	100.00	50
+P008	Sombrero de pesca	15.5	50
+P010	caña de pesca	100.0	48
+P011	camas	150.2	50
+P012	cañas de pesca	50.0	50
